@@ -1,0 +1,5 @@
+.env
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+nyc_evaluation_results.csv
