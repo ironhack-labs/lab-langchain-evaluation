@@ -1,0 +1,7 @@
+langchain-core>=0.3,<0.4
+langchain-openai>=0.3,<0.4
+ragas==0.2.15
+scikit-learn>=1.4,<2
+pandas>=2,<3
+python-dotenv>=1,<2
+ipykernel>=6,<8

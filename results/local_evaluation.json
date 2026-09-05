@@ -1,0 +1,257 @@
+[
+  {
+    "corpus": "clothing",
+    "query": "Does the Cozy Comfort Pullover Set, Stripe have side pockets?",
+    "answer": "Yes",
+    "evidence_quote": "side pockets and a modern slim leg",
+    "relevant_ids": [
+      "product-10",
+      "product-73"
+    ],
+    "prediction": "Cozy Comfort Pullover Set, Stripe Cozy Cuddles Knit Pullover Set",
+    "retrieved_ids": [
+      "product-10",
+      "product-73",
+      "product-547",
+      "product-648"
+    ],
+    "exact_match": 0,
+    "token_f1": 0.0,
+    "retrieval_hit_at_k": 1,
+    "retrieval_recall_at_k": 1.0,
+    "answer_token_support": 1.0,
+    "mode": "local"
+  },
+  {
+    "corpus": "clothing",
+    "query": "What collection is the Ultra-Lofty 850 Stretch Down Hooded Jacket from?",
+    "answer": "DownTek",
+    "evidence_quote": "from our DownTek collection",
+    "relevant_ids": [
+      "product-11"
+    ],
+    "prediction": "Ultra-Lofty 850 Stretch Down Hooded Jacket Women's Ultra-Loft Down Sweater Hooded Jacket",
+    "retrieved_ids": [
+      "product-11",
+      "product-241",
+      "product-284",
+      "product-578"
+    ],
+    "exact_match": 0,
+    "token_f1": 0.0,
+    "retrieval_hit_at_k": 1,
+    "retrieval_recall_at_k": 1.0,
+    "answer_token_support": 1.0,
+    "mode": "local"
+  },
+  {
+    "corpus": "clothing",
+    "query": "What percentage of recycled material is in the Recycled Waterhog Dog Mat, Chevron Weave?",
+    "answer": "94%",
+    "evidence_quote": "94% recycled materials",
+    "relevant_ids": [
+      "product-1"
+    ],
+    "prediction": "Recycled Waterhog Dog Mat, Chevron Weave Protect your floors from spills and splashing with our ultradurable recycled Waterhog dog mat made right here in the USA.",
+    "retrieved_ids": [
+      "product-1",
+      "product-77",
+      "product-557",
+      "product-119"
+    ],
+    "exact_match": 0,
+    "token_f1": 0.0,
+    "retrieval_hit_at_k": 1,
+    "retrieval_recall_at_k": 1.0,
+    "answer_token_support": 1.0,
+    "mode": "local"
+  },
+  {
+    "corpus": "clothing",
+    "query": "What sun protection rating does the Infant and Toddler Girls’ Coastal Chill Swimsuit have?",
+    "answer": "UPF 50+",
+    "evidence_quote": "UPF 50+ rated fabric",
+    "relevant_ids": [
+      "product-2"
+    ],
+    "prediction": "Infant and Toddler Girls' Coastal Chill Swimsuit, Two-Piece Plus, it has an impressive UPF 50+ rating—the highest sun protection rating possible.",
+    "retrieved_ids": [
+      "product-2",
+      "product-285",
+      "product-214",
+      "product-769"
+    ],
+    "exact_match": 0,
+    "token_f1": 0.16,
+    "retrieval_hit_at_k": 1,
+    "retrieval_recall_at_k": 1.0,
+    "answer_token_support": 1.0,
+    "mode": "local"
+  },
+  {
+    "corpus": "nyc",
+    "query": "What was the population of New York City in 2020?",
+    "answer": "8,804,190",
+    "evidence_quote": "2020 population of 8,804,190",
+    "relevant_ids": [
+      "nyc-000"
+    ],
+    "prediction": "New York City's population is about 44% of New York State's population, and about 39% of the population of the New York metropolitan area. city; and New York has more than three times the population of Chicago, the third-most populous U.S.",
+    "retrieved_ids": [
+      "nyc-038",
+      "nyc-000",
+      "nyc-039",
+      "nyc-037"
+    ],
+    "exact_match": 0,
+    "token_f1": 0.0,
+    "retrieval_hit_at_k": 1,
+    "retrieval_recall_at_k": 1.0,
+    "answer_token_support": 1.0,
+    "mode": "local"
+  },
+  {
+    "corpus": "nyc",
+    "query": "In whose honor was New York named in 1664?",
+    "answer": "Duke of York",
+    "evidence_quote": "named in honor of the Duke of York",
+    "relevant_ids": [
+      "nyc-004"
+    ],
+    "prediction": "In 1664, New York was named in honor of the Duke of York, who would become King James II of England. The city came under British control in 1664 and was renamed New York after King Charles II of England granted the lands to his brother, the Duke of York.",
+    "retrieved_ids": [
+      "nyc-004",
+      "nyc-002",
+      "nyc-006",
+      "nyc-007"
+    ],
+    "exact_match": 0,
+    "token_f1": 0.11320754716981131,
+    "retrieval_hit_at_k": 1,
+    "retrieval_recall_at_k": 1.0,
+    "answer_token_support": 1.0,
+    "mode": "local"
+  },
+  {
+    "corpus": "nyc",
+    "query": "What ideals does the Statue of Liberty symbolize?",
+    "answer": "liberty and peace",
+    "evidence_quote": "ideals of liberty and peace",
+    "relevant_ids": [
+      "nyc-002"
+    ],
+    "prediction": "and its ideals of liberty and peace. The Statue of Liberty greeted millions of immigrants as they came to the U.S.",
+    "retrieved_ids": [
+      "nyc-002",
+      "nyc-026",
+      "nyc-059",
+      "nyc-034"
+    ],
+    "exact_match": 0,
+    "token_f1": 0.24000000000000002,
+    "retrieval_hit_at_k": 1,
+    "retrieval_recall_at_k": 1.0,
+    "answer_token_support": 1.0,
+    "mode": "local"
+  },
+  {
+    "corpus": "nyc",
+    "query": "Which two stock exchanges are mentioned in the text?",
+    "answer": "New York Stock Exchange and Nasdaq",
+    "evidence_quote": "New York Stock Exchange and Nasdaq",
+    "relevant_ids": [
+      "nyc-004"
+    ],
+    "prediction": "Lower Manhattan is home to the New York Stock Exchange, at 11 Wall Street, and the Nasdaq, at 165 Broadway, representing the world's largest and second largest stock exchanges, respectively, when measured both by overall average daily trading volume and by total market capitalization of their listed companies in 2013. The New York Stock Exchange closed for two consecutive days.",
+    "retrieved_ids": [
+      "nyc-004",
+      "nyc-054",
+      "nyc-020"
+    ],
+    "exact_match": 0,
+    "token_f1": 0.1791044776119403,
+    "retrieval_hit_at_k": 1,
+    "retrieval_recall_at_k": 1.0,
+    "answer_token_support": 1.0,
+    "mode": "local"
+  },
+  {
+    "corpus": "nyc",
+    "query": "How many passenger rail stations does the New York City Subway have in this source?",
+    "answer": "472",
+    "evidence_quote": "472 passenger rail stations",
+    "relevant_ids": [
+      "nyc-003"
+    ],
+    "prediction": "Providing continuous 24/7 service and contributing to the nickname The City That Never Sleeps, the New York City Subway is the largest single-operator rapid transit system in the world with 472 passenger rail stations, and Penn Station in Midtown Manhattan is the busiest transportation hub in the Western Hemisphere. ==== Rail ====",
+    "retrieved_ids": [
+      "nyc-003",
+      "nyc-091",
+      "nyc-092",
+      "nyc-093"
+    ],
+    "exact_match": 0,
+    "token_f1": 0.03773584905660378,
+    "retrieval_hit_at_k": 1,
+    "retrieval_recall_at_k": 1.0,
+    "answer_token_support": 1.0,
+    "mode": "local"
+  },
+  {
+    "corpus": "fictional_library",
+    "query": "How many books may a member borrow?",
+    "answer": "four",
+    "evidence_quote": "borrow four books",
+    "relevant_ids": [
+      "policy-1"
+    ],
+    "prediction": "Library members may borrow four books for 21 days. Renewals are allowed once unless another member reserved the book.",
+    "retrieved_ids": [
+      "policy-1",
+      "policy-2"
+    ],
+    "exact_match": 0,
+    "token_f1": 0.1,
+    "retrieval_hit_at_k": 1,
+    "retrieval_recall_at_k": 1.0,
+    "answer_token_support": 1.0,
+    "mode": "local"
+  },
+  {
+    "corpus": "fictional_library",
+    "query": "How long is the loan period?",
+    "answer": "21 days",
+    "evidence_quote": "21 days",
+    "relevant_ids": [
+      "policy-1"
+    ],
+    "prediction": "I do not know from the supplied documents.",
+    "retrieved_ids": [],
+    "exact_match": 0,
+    "token_f1": 0.0,
+    "retrieval_hit_at_k": 0,
+    "retrieval_recall_at_k": 0.0,
+    "answer_token_support": 0.0,
+    "mode": "local"
+  },
+  {
+    "corpus": "fictional_library",
+    "query": "When is the library closed?",
+    "answer": "Sundays",
+    "evidence_quote": "closed on Sundays",
+    "relevant_ids": [
+      "policy-3"
+    ],
+    "prediction": "The library is closed on Sundays. Library members may borrow four books for 21 days.",
+    "retrieved_ids": [
+      "policy-3",
+      "policy-1"
+    ],
+    "exact_match": 0,
+    "token_f1": 0.125,
+    "retrieval_hit_at_k": 1,
+    "retrieval_recall_at_k": 1.0,
+    "answer_token_support": 1.0,
+    "mode": "local"
+  }
+]
