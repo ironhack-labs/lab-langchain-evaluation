@@ -1,0 +1,10 @@
+langsmith
+langchain[openai]>=1.0
+langchain-openai
+langchain-text-splitters
+tiktoken
+bs4
+requests
+python-dotenv
+pandas
+ipykernel
